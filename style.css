@@ -1,0 +1,163 @@
+.Gmail {
+  position: fixed;
+  left: 1600px;
+  top: 10px;
+  font: 13px arial;
+  color: black;
+}
+
+.Gmail:hover {
+  text-decoration: underline;
+}
+
+.Images {
+  position: fixed;
+  left: 1650px;
+  top: 10px;
+  font: 13px arial;
+  color: black;
+}
+
+.Images:hover {
+  text-decoration: underline;
+}
+
+.Apps {
+  position: fixed;
+  left: 1710px;
+  top: 4px;
+  color: grey;
+}
+
+.Apps:hover {
+  color: black;
+}
+
+.Signin {
+  position: fixed;
+  left: 1750px;
+  top: 1px;
+  font: 13px arial;
+  font-weight: bold;
+  color: white;
+  background-color: rgb(66, 133, 244);
+  border: solid 1px;
+  padding: 8px 13px 8px 13px;
+  border-radius: 4px;
+}
+
+.search {
+  position: fixed;
+  left: 790px;
+  top: 200px;
+}
+input[type="search"] {
+  position: fixed;
+  left: 640px;
+  top: 320px;
+  width: 580px;
+  height: 42px;
+  border: solid 1px white;
+  border-radius: 2px;
+  box-shadow: 0px 1px 1px 1px rgb(200, 200, 200);
+}
+
+input[type="search"]:hover {
+  outline: none;
+  box-shadow: 0px 2px 5px 1px rgb(205, 205, 205);
+}
+
+input[type="search"]:focus {
+  outline: none;
+  box-shadow: 0px 2px 5px 1px rgb(205, 205, 205);
+}
+
+input[value="Google Search"] {
+  position: fixed;
+  left: 785px;
+  top: 395px;
+  border: solid 1px white;
+  width: 130px;
+  height: 38px;
+  color: grey;
+  background-color: rgb(240, 240, 240);
+  font-weight: bold;
+}
+
+input[value="Google Search"]:hover {
+  border: solid 1px rgb(210, 210, 210);
+  color: black;
+  background-color: rgb(245, 245, 245);
+  border-radius: 2px;
+}
+
+input[value="I'm Feeling Lucky"] {
+  position: fixed;
+  left: 920px;
+  top: 395px;
+  border: solid 1px white;
+  width: 140px;
+  height: 38px;
+  color: grey;
+  background-color: rgb(240, 240, 240);
+  font-weight: bold;
+}
+
+input[value="I'm Feeling Lucky"]:hover {
+  border: solid 1px rgb(210, 210, 210);
+  color: black;
+  background-color: rgb(245, 245, 245);
+  border-radius: 2px;
+}
+
+.Footer {
+  font: 13px arial;
+  color: grey;
+  position: fixed;
+  left: 1px;
+  top: 950px;
+  width: 1900px;
+  height: 40px;
+  background-color: rgb(240, 240, 240);
+}
+
+li {
+  display: inline;
+  padding-right: 25px;
+}
+
+.listone {
+  position: fixed;
+  top: 950px;
+  left: 5px;
+}
+
+.listtwo {
+  position: fixed;
+  top: 950px;
+  right: 10px;
+}
+
+.Ad:hover {
+  text-decoration: underline;
+}
+
+.Buisness:hover {
+  text-decoration: underline;
+}
+
+.About:hover {
+  text-decoration: underline;
+}
+
+.Privacy:hover {
+  text-decoration: underline;
+}
+
+.Terms:hover {
+  text-decoration: underline;
+}
+
+.Settings:hover {
+  text-decoration: underline;
+}
